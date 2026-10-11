@@ -1,0 +1,7 @@
+0 gul
+1 papatya
+2 lilyum
+3 yasemin
+4 lale
+5 lavanta
+6 gelincik
